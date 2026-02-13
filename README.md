@@ -12,16 +12,16 @@ To build strong DevOps fundamentals and develop the ability to design, automate,
 
 ## 🛠️ Technologies Covered
 
-- Linux
-- Git
-- Networking
-- Jenkins
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- Monitoring (Prometheus & Grafana)
-
+- Linux                              - [01 - Linux](01-Linux/)
+- Git                                - [02 - Git](02-Git/)
+- Networking                         - [03 - Networking](03-Networking/)
+- Jenkins                            - [04 - Jenkins](04-Jenkins/)
+- Docker                             - [05 - Docker](05-Docker/)
+- Kubernetes                         - [06 - Kubernetes](06-Kubernetes/)
+- AWS                                - [07 - AWS](07-AWS/)
+- Terraform                          - [08 - Terraform](08-Terraform/)
+- Monitoring (Prometheus & Grafana)  - [09 - Monitoring](09-Monitoring/)
+- Capstone-Project                   - [10 - Capstone Project](10-Capstone-Project/)
 ---
 
 ## 📂 Repository Structure
@@ -32,6 +32,26 @@ Each section contains:
 - 🧪 Practice tasks
 - 🖼️ Screenshots & diagrams
 - 🚀 Mini projects
+
+## 📂 Repository Structure
+
+### Foundations
+- [01 - Linux](01-Linux/)
+- [02 - Git](02-Git/)
+- [03 - Networking](03-Networking/)
+
+### CI/CD & Automation
+- [04 - Jenkins](04-Jenkins/)
+- [05 - Docker](05-Docker/)
+- [06 - Kubernetes](06-Kubernetes/)
+
+### Cloud & Infrastructure
+- [07 - AWS](07-AWS/)
+- [08 - Terraform](08-Terraform/)
+- [09 - Monitoring](09-Monitoring/)
+
+### Final Implementation
+- [10 - Capstone Project](10-Capstone-Project/)
 
 ---
 
